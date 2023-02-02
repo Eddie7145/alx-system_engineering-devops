@@ -2,3 +2,4 @@
 # Bash script that kills the process 7-highlander
 
 kill -9 "$(pgrep -f highlander)"
+
